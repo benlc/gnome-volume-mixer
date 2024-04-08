@@ -15,3 +15,7 @@ npm i
 npm run build
 gnome-extensions install dist/volume-mixer.zip
 ```
+
+---
+
+Fork of [mymindstorm/gnome-volume-mixer](https://github.com/mymindstorm/gnome-volume-mixer) (archived) to support Gnome 46+
